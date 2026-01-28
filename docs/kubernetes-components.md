@@ -6,7 +6,7 @@
 - kubectl
 
 ## Versions
-- Kubernetes version: v1.29 (from official repository)
+- Kubernetes version: v1.35 (from official repository)
 
 ## Notes
 - kubelet is installed as a systemd service.
