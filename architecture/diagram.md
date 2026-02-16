@@ -1,3 +1,5 @@
+## 📁 Project Structure
+```
 kubeadm-terraform-ansible-lab/
 ├── README.md
 ├── architecture/
