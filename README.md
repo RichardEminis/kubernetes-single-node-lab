@@ -1,4 +1,4 @@
-# kubeadm-terraform-ansible-lab
+# kubernetes-single-node-lab
 
 ## Overview
 This project demonstrates a self-managed Kubernetes cluster deployed on Ubuntu Server
